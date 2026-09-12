@@ -127,8 +127,8 @@ React Frontend → Express API → MongoDB + OpenAI API
 
 ## 👨‍💻 Author
 
-Mahir Alam
-(University of Calgary)
+Anish Kumar Singh
+Software Developer
 
 ---
 
